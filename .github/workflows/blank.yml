@@ -11,7 +11,7 @@ on:
 env:
   PROJECT_ID: project-40d105bf-bb2b-4bf6-b9f
   REGION: us-east5
-  CLUSTER_NAME: gke-three-tier1
+  CLUSTER_NAME: gke-three-tier
   CLUSTER_ZONE: us-east5-a
   REPOSITORY: gcp-three-tier
   NAMESPACE: three-tier

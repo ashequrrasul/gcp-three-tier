@@ -1,4 +1,4 @@
-gcloud container clusters create gke-three-tier1 \
+gcloud container clusters create gke-three-tier \
   --zone us-east5-a \
   --network myvpc \
   --subnetwork gke-subnet \
